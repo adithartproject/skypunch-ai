@@ -224,4 +224,4 @@ Versi berikutnya akan mendukung:
 - PostgreSQL
 - Supabase
 - MySQL
-- MongoDB
+- MongoDB.
